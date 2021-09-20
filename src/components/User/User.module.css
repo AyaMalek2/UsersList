@@ -1,0 +1,9 @@
+.user {
+  width: 350px;
+  padding: 5px;
+}
+
+.user-box {
+  margin: 5px;
+  border: solid 1px rgb(82, 80, 80);
+}

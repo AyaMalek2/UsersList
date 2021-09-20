@@ -1,0 +1,9 @@
+.App {
+  background-color: #3e3d3d;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  height: 625px;
+}
